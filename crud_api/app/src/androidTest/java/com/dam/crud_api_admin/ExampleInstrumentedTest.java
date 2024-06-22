@@ -1,4 +1,4 @@
-package com.example.crud_api;
+package com.dam.crud_api_admin;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.crud_api", appContext.getPackageName());
+        assertEquals("com.guerrero.crud_api", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.example.crud_api;
+package com.dam.crud_api_admin;
 
 import org.junit.Test;
 

@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">crud_api</string>
+    <string name="app_name">crud_api_admin</string>
+    <string name="seleccione">seleccione parentezco</string>
+
 </resources>
